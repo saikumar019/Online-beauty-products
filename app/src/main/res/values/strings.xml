@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Online Product App</string>
+    <string name="body">Body</string>
+    <string name="make_up">Make up</string>
+    <string name="hair">Hair</string>
+    <string name="face">Face</string>
+    <string name="let_s_find_your_favourate_body_care_product">Let\'s find your favourate body care product</string>
+    <string name="hello_emma">Hello Emma!</string>
+</resources>
